@@ -1,4 +1,4 @@
-# CS162-Final-Project
+# Harry Potter Command-line Game
 
 Harry Potter themed command-line game.
 
